@@ -1,0 +1,40 @@
+html{
+    background: #000000;
+}
+h1, h2, h3, p{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+h1{
+    background: #2B563B;
+    color: red;
+    text-align: center;
+}
+h3{
+    color: firebrick;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+body{
+    background: #6D9F7F;
+    margin: 1%;
+    text-align: center;
+    align-content: center;
+}
+table{
+    width: 90%;
+    margin: 0 auto;
+}
+th{
+    width: 50%;
+}
+tr{
+    color: darkred;
+    background: #94D5AC;
+    text-align: center;
+}
+p{
+    font-size: 13pt;
+}
