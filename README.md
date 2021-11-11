@@ -1,2 +1,2 @@
 # ALittleRedHoodGirl
-This is my wed dev project for MMP100-1300
+A dollhouse game website that is using the p5 library to create the website. I would like to create a colorful doll and a dollhouse for myself and share everyone plays them. Maria can do many things in her house; Users can click items in the house and see what she does. There is a bedroom, dressing room, bathroom, kitchen, and garden in her house. This game will give experience to find what Maria can do and how she reacts.
